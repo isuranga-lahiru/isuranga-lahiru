@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img  width=130px height=130px src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"/>
 </div>
-<p align="center">
+<div align="center">
+
+  <h1>Hi there, I'm Isuranga Lahiru! 👋</h1>
+  <h3>Passionate IT Student | Exploring the Boundless World of Technology</h3>
+
   <img src="https://komarev.com/ghpvc/?username=isuranga-lahiru&label=Profile%20Views&color=0e75b6&style=flat" alt="isuranga-lahiru" />
-</p>
 
-# Hi there, I'm Isuranga Lahiru! 👋
+</div>
 
-I am a final-year **BSc Physical Science (Computer Science)** undergraduate at **Eastern University, Sri Lanka**. I am a passionate developer with a strong foundation in mathematics and computer science, currently seeking an internship to kickstart my career in Software Engineering.
+<hr>
 
 * 🔭 I’m currently working on: **Full Stack Web Development & Mobile Apps**
 * 🌱 I’m currently learning: **Advanced MERN Stack & Quality Assurance**
