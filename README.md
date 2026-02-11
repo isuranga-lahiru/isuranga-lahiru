@@ -1,11 +1,11 @@
 # Hi there, I'm Isuranga Lahiru! 👋
 
-[cite_start]I am a final-year **BSc Physical Science (Computer Science)** undergraduate at **Eastern University, Sri Lanka**[cite: 10, 11]. [cite_start]I am a passionate developer with a strong foundation in mathematics and computer science, currently seeking an internship to kickstart my career in Software Engineering[cite: 6, 8].
+I am a final-year **BSc Physical Science (Computer Science)** undergraduate at **Eastern University, Sri Lanka**.I am a passionate developer with a strong foundation in mathematics and computer science, currently seeking an internship to kickstart my career in Software Engineering.
 
 * 🔭 I’m currently working on: **Full Stack Web Development & Mobile Apps**
 * 🌱 I’m currently learning: **Advanced MERN Stack & Quality Assurance**
 * 🎓 Education: **BSc in Computer Science** - Eastern University, Sri Lanka
-* [cite_start]📫 How to reach me: **isurangalahiru1@gamil.com** 
+* 📫 How to reach me: **isurangalahiru1@gamil.com** 
 
 ---
 
