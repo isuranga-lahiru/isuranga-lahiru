@@ -1,11 +1,18 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isuranga-lahiru&label=Profile%20Views&color=0e75b6&style=flat" alt="isuranga-lahiru" />
+</p>
+
 # Hi there, I'm Isuranga Lahiru! 👋
 
-I am a final-year **BSc Physical Science (Computer Science)** undergraduate at **Eastern University, Sri Lanka**.I am a passionate developer with a strong foundation in mathematics and computer science, currently seeking an internship to kickstart my career in Software Engineering.
+I am a final-year **BSc Physical Science (Computer Science)** undergraduate at **Eastern University, Sri Lanka**. I am a passionate developer with a strong foundation in mathematics and computer science, currently seeking an internship to kickstart my career in Software Engineering.
 
 * 🔭 I’m currently working on: **Full Stack Web Development & Mobile Apps**
 * 🌱 I’m currently learning: **Advanced MERN Stack & Quality Assurance**
 * 🎓 Education: **BSc in Computer Science** - Eastern University, Sri Lanka
-* 📫 How to reach me: **isurangalahiru1@gamil.com** 
+* 📫 How to reach me: **isurangalahiru1@gamil.com**
 
 ---
 
@@ -62,6 +69,8 @@ A specialized GPA calculation tool for the Faculty of Science, Eastern Universit
 
 ![Isuranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuranga-lahiru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isuranga-lahiru&layout=compact&theme=radical)
+
+
 
 ---
 
