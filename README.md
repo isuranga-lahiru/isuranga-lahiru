@@ -32,7 +32,3 @@ I am a final-year **BSc Physical Science (Computer Science)** undergraduate at *
 
 ---
 
-
----
-
-[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YOUR_LINKEDIN_URL])
