@@ -32,45 +32,6 @@ I am a final-year **BSc Physical Science (Computer Science)** undergraduate at *
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 [CineVerse Movies Site](https://cineverses.app/)
-A modern, responsive movie discovery web application featuring a glassmorphic UI.
-* **Tech:** JavaScript (Vanilla), HTML5, CSS3, OMDB API.
-* **Features:** Real-time search, persistent favorites, and detailed movie info.
-* **Deployment:** Hosted on Netlify with CI/CD integration.
-* [View Code](https://github.com/isuranga-lahiru)
-
-### 🌴 [Sri Lanka Tourism Website](https://pearl-of-the-indian-occan.netlify.app/)
-A comprehensive tourism website showcasing destinations and travel experiences in Sri Lanka.
-* **Tech:** Vue.js, JavaScript, HTML, CSS.
-* **Features:** Travel planner with localStorage persistence, interactive Google Maps, and real-time destination search.
-* [View Code](https://isuranga-lahiru.github.io/Tourism-Website-mini-project/)
-
-### 🎓 [Student Career Net](https://github.com/isuranga-lahiru/Student-Career-Net)
-A web-based system connecting university students with companies for internship opportunities.
-* **Tech:** PHP, MySQL, Bootstrap, PHPMailer.
-* **Features:** CV uploads, interview invitations, and admin dashboards for management.
-
-### 📊 [EUSL GPA Calculator](https://isuranga-lahiru.github.io/GPA-calculator-EUSL/)
-A specialized GPA calculation tool for the Faculty of Science, Eastern University.
-* **Tech:** HTML5, CSS3, JavaScript, Bootstrap 5.
-
----
-
-## 🏆 Certifications
-* **Full-Stack Web Development** - Coursera (PHP, HTML, CSS, JavaScript) [2025]
-* **Java & Python Data Structures** - Sololearn [2025]
-* **Online Designing** - TBS Holding (Canva, Photoshop, Illustrator)
-
----
-
-## 📊 GitHub Stats
-
-![Isuranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuranga-lahiru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isuranga-lahiru&layout=compact&theme=radical)
-
-
 
 ---
 
